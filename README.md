@@ -8,7 +8,7 @@ https://news-api-feed.web.app/
 
 # Screenshot
 
-![](https://github.com/Nor1SterlingCollege/5feb24-jotai-newsfeed/blob/047cbc53830893227af30ef29638ac8fccf38edf/public/screenshot.gif)
+![](https://github.com/Nor1SterlingCollege/5feb24-jotai-newsfeed/blob/main/public/screenshot.gif?raw=true)
 
 # Features
 
