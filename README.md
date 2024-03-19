@@ -14,6 +14,18 @@ https://news-api-feed.web.app/
 
 Read latest news that are fetched from several sources one by one, curated by The News API. Built with Jōtai Atoms, a primitive and flexible state management package for React.
 
+# Dependencies
+
+["@react-spring/web": "9.7.3"](https://www.npmjs.com/package/@react-spring/web)
+
+["html-react-parser": "5.1.1"](https://www.npmjs.com/package/html-react-parser)
+
+["jotai": "2.6.4"](https://www.npmjs.com/package/jotai)
+
+["semantic-ui-css": "2.5.0"](https://www.npmjs.com/package/semantic-ui-css)
+
+["semantic-ui-react": "2.1.5"](https://www.npmjs.com/package/semantic-ui-css)
+
 # Requirements
 
 ![vite](https://skillicons.dev/icons?i=vite)
